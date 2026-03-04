@@ -1,2 +1,0 @@
-print("Tatik")
-print("Appreciation")
